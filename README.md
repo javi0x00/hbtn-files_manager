@@ -1,7 +1,6 @@
 # 0x15. Files manager
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
 :bookmark:
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
@@ -52,5 +51,6 @@ The objective is to build a simple platform to upload and view files:
 * [ ] 10. Tests!
 * [ ] 11. New user - welcome email
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
